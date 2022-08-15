@@ -1,0 +1,6 @@
+{
+  "name":"Sample: Advanced level",
+  "descriptions":["Demonstrates how to create enemies."],
+  "entry_point":"level.lua",
+  "has_score_leaderboard":false
+}

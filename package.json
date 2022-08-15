@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "simple-server": "^1.1.1",
+    "zip-folder": "^1.0.0"
+  }
+}
