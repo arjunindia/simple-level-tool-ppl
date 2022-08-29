@@ -2,8 +2,7 @@
   "run": {
     "type": "task",
     "url": "http://localhost:9960",
-    "task": "project/start server",
-    "file": "ppl/index.html",
-    "ignoreCurrent": true
+    "ignoreCurrent": false,
+    "task": "project/start server"
   }
 }
