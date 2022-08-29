@@ -1,6 +1,6 @@
 {
   "run": {
-    "type": "task",
+    "type": "url",
     "url": "http://localhost:9960",
     "ignoreCurrent": false,
     "task": "project/start server"
