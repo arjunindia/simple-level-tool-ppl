@@ -17,7 +17,7 @@ then click terminal.
 in the terminal, type :
 
 ```
-npm instal --no-bin-links
+npm install --no-bin-links
 ```
 
 and press enter. it will do it's stuff.
